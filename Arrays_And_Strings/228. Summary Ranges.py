@@ -21,4 +21,4 @@ def summaryRanges(nums):
         i += 1
 
     return ans
-print(summaryRanges(nums))
+#print(summaryRanges(nums))
