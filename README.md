@@ -75,7 +75,3 @@ Feel free to fork this repository and make contributions! You can add new proble
 - **LinkedIn**: [Sudarshan T S](https://www.linkedin.com/in/sudarshan-t-s-858714259/)
 
 ---
-
-**Happy Coding!**
-
-
