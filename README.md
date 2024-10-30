@@ -14,25 +14,11 @@ Welcome to **LeetStreak**! This repository is a collection of solved coding prob
 This repository is organized by different DSA topics and contains well-commented code implementations with detailed explanations. Here’s a breakdown of the structure:
 
 
-📦 LeetStreak
- ┣ 📂 Arrays
- ┃ ┣ 📜 find_maximum_subarray.py
- ┃ ┣ 📜 merge_sorted_arrays.py
+ 📦 LeetStreak
+ ┣ 📂 Arrays_And_Strings
+ ┃ 
  ┣ 📂 Linked Lists
- ┃ ┣ 📜 reverse_linked_list.py
- ┃ ┣ 📜 detect_cycle.py
- ┣ 📂 Trees
- ┃ ┣ 📜 binary_tree_traversal.py
- ┃ ┣ 📜 lowest_common_ancestor.py
- ┣ 📂 Graphs
- ┃ ┣ 📜 graph_bfs.py
- ┃ ┣ 📜 graph_dijkstra.py
- ┣ 📂 Dynamic Programming
- ┃ ┣ 📜 knapsack_problem.py
- ┃ ┣ 📜 longest_increasing_subsequence.py
- ┣ 📂 Sorting and Searching
- ┃ ┣ 📜 quicksort.py
- ┃ ┣ 📜 binary_search.py
+ ┃ 
  ┗ 📜 README.md
 
 
@@ -93,9 +79,3 @@ Feel free to fork this repository and make contributions! You can add new proble
 **Happy Coding!**
 
 
-### How to Use:
-- Save the above text into a file named `README.md` in your **LeetStreak** repository.
-- Replace placeholders like `your-username` or links to your GitHub and LinkedIn profiles.
-- Feel free to expand the topic list or add more sections based on the contents of your repository.
-
-This `README` gives an organized overview of your LeetStreak repository, making it easy to navigate and understand.
