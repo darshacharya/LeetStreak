@@ -1,5 +1,5 @@
 """TC: O(N)"""
-"""SC: O(N)"""
+"""SC: O(N) """
 
 sentence = "leetcode exercises sound delightful"
 
