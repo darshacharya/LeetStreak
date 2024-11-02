@@ -1,7 +1,7 @@
 
 
 
-# LeetStreak - By Sudarshan T S
+# LeetStreak -- By Sudarshan T S
 
 **"Mastering DSA | Problem-Solving | Efficient Coding Techniques"**
 
