@@ -3,3 +3,6 @@ def check():
 
 def chec():
     pass
+
+def hi():
+    pass
