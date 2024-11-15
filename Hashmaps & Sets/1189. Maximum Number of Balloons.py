@@ -15,4 +15,3 @@ def maxNumberOfBalloons(text):
         return min(counter["b"], counter["a"], counter["l"] // 2, counter["o"] // 2, counter["n"])
 
 
-print(maxNumberOfBalloons("balloonnnsjalballon"))
