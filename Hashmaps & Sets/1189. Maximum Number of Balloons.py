@@ -1,8 +1,9 @@
 """1189. Maximum Number of Balloons"""
+from collections import defaultdict
 
 
 def maxNumberOfBalloons(text):
-    counter = 0
+    counter = defaultdict(int)
     balloon = "balloon"
 
     for c in text:
@@ -15,3 +16,4 @@ def maxNumberOfBalloons(text):
         return min(counter["b"], counter["a"], counter["l"] // 2, counter["o"] // 2, counter["n"])
 
 
+print(maxNumberOfBalloons("banndjakloabaonsballons")) #1
