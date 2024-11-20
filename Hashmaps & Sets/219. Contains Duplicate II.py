@@ -1,7 +1,5 @@
 """219. Contains Duplicate II"""
 
-
-
 def containsNearbyDuplicate(nums, k):
     # i=0
     # j=1
