@@ -1,17 +1,4 @@
 def Threesum(nums):
-#     i=0
-#     j=i+1
-#     k=len(nums)-1
-#     res = []
-#     while i<len(nums)-2:
-#         while j<k:
-#             if nums[i]+nums[j]+nums[k]==0:
-#                 res.append([nums[i],nums[j],nums[k]])
-#             else:
-#                 j+=1
-#         i+=1
-#     return res
-
     res = []
     nums.sort()
 
