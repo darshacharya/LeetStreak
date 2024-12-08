@@ -26,3 +26,4 @@ def Threesum(nums):
     return res
 nums = [-1,0,1,2,-1,1]
 print(Threesum(nums))
+#TC:O(N)
