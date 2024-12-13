@@ -14,7 +14,7 @@ def getLucky(s,k):
 
     return num
 
-s = "leetcode"
+s = "leetcoder"
 k=2
 print(getLucky(s,k))
 
